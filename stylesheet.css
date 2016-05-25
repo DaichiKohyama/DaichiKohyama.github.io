@@ -1,0 +1,30 @@
+body{
+    background-color: gray;
+    font-size: 14px ;
+}
+
+
+.icon{
+    height: 256px;
+    width: 256px;
+    border-radius: 100%;
+    border:10px solid white;
+}
+
+.aboutme{
+    text-align: center;
+    
+}
+
+header{
+    border-bottom:5px solid black;
+    text-align: center;
+}
+
+div.aboutme{
+    background-color: white;
+}
+
+div.aboutme ul li{
+    display: inline-block;
+}
